@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+
+# Output Files
+*.md
+research_findings.md
+analysis_report.md
+final_report.md
+
+# Logs
+*.log
